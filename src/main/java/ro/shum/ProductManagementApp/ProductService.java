@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 import org.springframework.stereotype.Service;
 
+/**
+ * Сервис, который обрабатывает бизнес-логику приложения.
+ */
 @Service
 public class ProductService {
 
